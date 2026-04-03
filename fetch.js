@@ -11,7 +11,7 @@ async function test() {
   );
 
   try {
-    const res = await fetch("http://localhost:4000/products?inStock=true", {
+    const res = await fetch("https://backend-j3u1.onrender.com/products?inStock=true", {
       headers: { "Authorization": "Bearer " + token }
     });
     console.log("Status:", res.status);

@@ -1,0 +1,44 @@
+﻿=== USERS ===
+EMAIL: admin@marketplace.com
+  role: sales
+  tenantId: 6e6c95e1-cade-492f-a332-a1ebc7829d7f
+  id: 32b3543f-5888-4f31-81af-d48a8231fdb2
+---
+EMAIL: bbata0839@gmail.com
+  role: sales
+  tenantId: da30fbad-da56-4a94-a2e5-6131350f4c88
+  id: 59c92edd-54e2-4e46-8ce5-b0a599365985
+---
+EMAIL: niga@gmail.com
+  role: owner
+  tenantId: 128914ca-0437-4d5e-96f3-6c9a9abacb17
+  id: 60cf2bf1-66bd-4b08-9fa3-d635272c12a3
+---
+EMAIL: karma@gmail.com
+  role: sales
+  tenantId: 49f63be3-8b07-4bac-96d5-a3472c17f80a
+  id: 82840ad3-f360-4735-b010-ecc7b69d2ecd
+---
+EMAIL: owner@test.com
+  role: owner
+  tenantId: 0219d8b1-daca-43de-a4e8-6c4f5345dac0
+  id: 91e8ea44-94bf-44a4-bc22-196ca0f90820
+---
+EMAIL: kosenk26@gmail.com
+  role: admin
+  tenantId: 49f63be3-8b07-4bac-96d5-a3472c17f80a
+  id: accf4728-436c-44f6-9313-0254afd3228f
+---
+EMAIL: 1111@gmail.com
+  role: sales
+  tenantId: 6e6c95e1-cade-492f-a332-a1ebc7829d7f
+  id: ddb5a06a-0c1b-48e9-bb13-b0eecb37dfe2
+---
+
+=== CONVERSATIONS ===
+CONV: 27afd8ae-0f89-4144-9ce1-1cabf5f677de
+  UserA: admin@marketplace.com
+  UserB: 1111@gmail.com
+  Deal: ec49c845-7fc6-4818-b456-928d7e62e75f
+  Tenant: 6e6c95e1-cade-492f-a332-a1ebc7829d7f
+---

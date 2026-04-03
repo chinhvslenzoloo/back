@@ -11,7 +11,7 @@ process.on("unhandledRejection", (reason) => {
   logger.error("unhandledRejection", reason?.message || reason);
 });
 
-const port = Number(process.env.PORT || 4000);
+// const port = Number(process.env.PORT || 4000);
 
 app.listen(port, () => {
   logger.info(`API running on :${port}`);
